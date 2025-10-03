@@ -1,0 +1,12 @@
+RecommendationSystem/
+│
+├─ src/
+│   └─ main/
+│       └─ java/
+│           └─ ProductRecommender.java
+│
+├─ data/
+│   └─ data.csv
+│
+├─ pom.xml
+└─ README.md
